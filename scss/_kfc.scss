@@ -1,0 +1,124 @@
+.kfc__continer{
+    text-align: center;
+   margin-top: 24px;
+   p{
+    color: #0D7D38;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins';
+    margin-bottom: 32px;
+
+   }
+   .crill{
+    a{
+        margin-right: 40px;
+     
+    }
+   }
+}
+@media (max-width:1200px) {
+    .kfc__continer{
+        text-align: center;
+        margin-top: 24px;
+       p{
+        max-width: 70%;
+        color: #0D7D38;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        font-family: 'Poppins';
+        margin-bottom: 30px;
+        text-align: center;
+        margin-left: 20vw;
+    
+       }
+       .crill{
+        a{
+            margin-right: 37px;
+            img{
+                max-width: 135px;
+            }
+         
+        }
+    
+    }}}
+    @media (max-width:992px) {
+        .kfc__continer{
+            text-align: center;
+            margin-top: 24px;
+           p{
+            max-width: 70%;
+            color: #0D7D38;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            font-family: 'Poppins';
+            margin-bottom: 30px;
+            text-align: center;
+            margin-left: 20vw;
+        
+           }
+           .crill{
+            a{
+                margin-right: 37px;
+                img{
+                    max-width: 100px;
+                }
+             
+            }
+        
+        }}}
+        @media (max-width:768px) {
+            .kfc__continer{
+                text-align: center;
+                margin-top: 24px;
+               p{
+                max-width: 70%;
+                color: #0D7D38;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 24px;
+                font-family: 'Poppins';
+                margin-bottom: 30px;
+                text-align: center;
+                margin-left: 20vw;
+            
+               }
+               .crill{
+                a{
+                    margin-right: 20px;
+                    img{
+                        max-width: 90px;
+                    }
+                 
+                }
+            
+            }}}
+            @media (max-width:567px) {
+                .kfc__continer{
+                    text-align: center;
+                    margin-top: 24px;
+                   p{
+                    max-width: 70%;
+                    color: #0D7D38;
+                    font-weight: 400;
+                    font-size: 12px;
+                    line-height: 18px;
+                    font-family: 'Poppins';
+                    margin-bottom: 20px;
+                    text-align: center;
+                    margin-left: 20vw;
+                
+                   }
+                   .crill{
+                    a{
+                        margin-right: 18px;
+                        img{
+                            max-width: 80px;
+                        }
+                     
+                    }
+                
+                }}}
+     
